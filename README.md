@@ -29,21 +29,21 @@ A TypeScript-powered AI system. The brain layer behind intelligent, context-awar
 #### 📈 [JESH NAS M15](https://github.com/Jeshrum/JESH-NAS-M15)
 NAS100 15-minute Opening Range Breakout strategy. Backtested over 16 years with a production-ready deployment via Docker.
 
+![Backtest Report](https://raw.githubusercontent.com/Jeshrum/JESH-NAS-M15/main/images/backtest_report_v2.png)
+
 #### 🥇 [Doctor Praise XAUUSD](https://github.com/Jeshrum/DOCTOR-PRAISE-XAUUSD)
 XAUUSD London Close ORB strategy. 17-year backtest — 62.3% WR, 2.68 Profit Factor, 3.5% Max Drawdown. Prop firm ready.
 
+![Backtest Report](https://raw.githubusercontent.com/Jeshrum/DOCTOR-PRAISE-XAUUSD/main/images/backtest_report.png)
+
 ---
 
-### GitHub Stats
-
-![Jeshrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeshrum&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeshrum&layout=compact&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Jeshrum&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
 ### Let's Connect
 
-- Portfolio: coming soon
 - Twitter / X: [@Jeshrum](https://twitter.com/Jeshrum)
 
 *"Every random passerby is living a life as vivid and complex as your own — Sonder."*

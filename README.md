@@ -1,46 +1,49 @@
-# 👋 Hi, I'm Jeshrum
+# Hey, I'm Jeshrum 👋
 
-### 🚀 Full-Stack Developer | AI Agent Builder | Trading Systems Engineer
+### Full-Stack Developer · AI Agent Builder · Algorithmic Trading Engineer
 
-I build high-performance, autonomous systems that bridge the gap between real-world intelligence and digital execution. My expertise spans from **Next-gen Web Applications** to **AI-driven Trading Infrastructures**.
-
----
-
-### 🛠️ Core Tech Stack
-
-- **Frontend**: ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js) ![React](https://img.shields.io/badge/React-blue?logo=react) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
-- **Backend & AI**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js) ![LangChain](https://img.shields.io/badge/LangChain-white?logo=langchain&logoColor=black)
-- **Infrastructure**: ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase) ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-- **Specialized**: ![MT5](https://img.shields.io/badge/MetaTrader_5-blue) ![Polymarket](https://img.shields.io/badge/Polymarket-purple) ![Agora](https://img.shields.io/badge/Agora-orange)
+I build autonomous systems that think, trade, and execute — from sovereign AI orchestration layers to backtested trading strategies with real edge.
 
 ---
 
-### 🌟 Featured Projects
+### Core Stack
 
-#### 🤖 [Prerum Trading System](https://github.com/Jeshrum/prerum-trading-system)
-An autonomous trading & intelligence suite. Microservices-based architecture with MT5 integration, real-time sentiment analysis, and a premium glassmorphic dashboard.
-
-#### 🤝 [Lock-in Hub](https://github.com/Jeshrum/lock-in-hub)
-A unified collaboration platform integrating Agora (Video), Zoom, and Google Gemini AI for intelligent meeting management.
-
-#### ⚽ [1968 Football Intelligence](https://github.com/Jeshrum/1968-football)
-A real-time news aggregation and intelligence monitoring board with automated signal processing and a focus on Nigerian sports interest.
-
-#### 💧 [Clear Habit](https://github.com/Jeshrum/water-mobile)
-A privacy-first, minimal wellness tracker built with React Native and Expo focusing on skin health through habit formation.
+**Frontend** — Next.js · React · Tailwind CSS · Angular  
+**Backend & AI** — Python · FastAPI · Node.js · LangChain · TypeScript  
+**Infrastructure** — Docker · PostgreSQL · Supabase · Git  
+**Trading** — MetaTrader 5 · Pine Script · Backtesting.py
 
 ---
 
-### 📊 GitHub Stats
+### Featured Projects
 
-![Jeshrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeshrum&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeshrum&layout=compact&theme=radical)
+#### 🧠 [Prerum Trading System](https://github.com/Jeshrum/prerum-trading-system)
+Autonomous trading & intelligence suite. Microservices architecture with MT5 integration, real-time sentiment analysis, and a premium glassmorphic dashboard.
+
+#### ⚙️ [Intent Agent Substrate](https://github.com/Jeshrum/intent-agent-substrate)
+Sovereign orchestration substrate for autonomous AI. 22-agent system built on the JESH 4-Gate Pipeline — perception, reasoning, execution, and feedback.
+
+#### 🤖 [JeshAI](https://github.com/Jeshrum/jeshai)
+A TypeScript-powered AI system. The brain layer behind intelligent, context-aware agent interactions.
+
+#### 📈 [JESH NAS M15](https://github.com/Jeshrum/JESH-NAS-M15)
+NAS100 15-minute Opening Range Breakout strategy. Backtested over 16 years with a production-ready deployment via Docker.
+
+#### 🥇 [Doctor Praise XAUUSD](https://github.com/Jeshrum/DOCTOR-PRAISE-XAUUSD)
+XAUUSD London Close ORB strategy. 17-year backtest — 62.3% WR, 2.68 Profit Factor, 3.5% Max Drawdown. Prop firm ready.
 
 ---
 
-### 📫 Let's Connect
-- LinkedIn: [Your Profile]
-- Twitter: [@YourHandle]
-- Portfolio: [Your Website]
+### GitHub Stats
 
-*"Building the future, one autonomous agent at a time."*
+![Jeshrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeshrum&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeshrum&layout=compact&theme=radical&hide_border=true)
+
+---
+
+### Let's Connect
+
+- Portfolio: coming soon
+- Twitter / X: [@Jeshrum](https://twitter.com/Jeshrum)
+
+*"Every random passerby is living a life as vivid and complex as your own — Sonder."*
